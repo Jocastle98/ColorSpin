@@ -1,6 +1,6 @@
 # ColorSpin
 
-
+<img width="528" alt="메인" src="https://github.com/Jocastle98/ColorSpin/assets/105643174/4c7438f5-58c1-4a62-84c2-a436902ba31c">
 
 # 총 제작기간 24.6.26 ~ 24.7.4 
 
