@@ -1,5 +1,5 @@
 # ColorSpin
-![Uploading 메인.png…]()
+
 
 
 # 총 제작기간 24.6.26 ~ 24.7.4 
