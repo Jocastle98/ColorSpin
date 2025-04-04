@@ -4,6 +4,14 @@
 
 # 총 제작기간 24.6.26 ~ 24.7.4 
 
+## 1. 사용중인 유니티 버전 : 
+> Unity 2022.3.51f1
+## 2. 사용중인 관리 도구: 
+> [GitHub](https://github.com/Jocastle98/ColorSpin)
+## 3. 포트폴리오 
+> [Color Spin 포트폴리오](https://roan-bearskin-e68.notion.site/Color-Spin-083db8b5622f4feaa67521e7d34e3ce6)
+
+
 # 6.26 - 인트로 씬 UI 제작 배경음악과 효과음 
 
 해결해야하는 과제 - 메인 씬에서 설정창을 누르면 
